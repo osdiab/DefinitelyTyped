@@ -867,4 +867,6 @@ export namespace xdr {
     class Asset extends XDRStruct { }
     class Memo extends XDRStruct { }
     class TransactionEnvelope extends XDRStruct { }
+    class TransactionResult extends XDRStruct { }
+    class TransactionMeta extends XDRStruct { }
 }
