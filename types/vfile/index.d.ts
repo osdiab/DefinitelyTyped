@@ -5,8 +5,6 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 3.0
 
-/// <reference types='node' />
-
 import * as Unist from 'unist';
 import * as vfileMessage from 'vfile-message';
 
